@@ -13,4 +13,4 @@ of the models\school_shooting_specialist.gaml
 file into a new gama project.
 
 ## In simiulation picture:
-![alt text](https://github.com/eliascarrasco1227/wumpus/blob/main/execution%20pictures%20and%20videos/start_of_game.png)
+![simiulation picture of multiagent system with a grid with students, killers and exits.](https://github.com/eliascarrasco1227/wumpus/blob/main/execution%20pictures%20and%20videos/start_of_game.png)
